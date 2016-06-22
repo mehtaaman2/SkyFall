@@ -1,0 +1,17 @@
+App Name : SKYFALL
+Tagline : To infinity and beyond!
+================================================
+COPYRIGHT @ CODEBLOODED, MSRIT
+
+About the app :
+ An addictive action packed game with soothing music. Control the ball by avoiding obstacles ( mines and shurikens), collect amazing power ups, do whatever you want to, just don't let it go above the screen!!
+ Challenge your friends and top the leaderboard!
+
+
+Team member names and usn : 
+1MS13CS021 : Aman Mehta 
+1MS13CS034 : Ayush Kumar 
+1MS13CS036 : Bineet Kumar 
+1MS13CS037 : Deepak Jayaprakash 
+
+All members are from section A and are presently in their 6th Semester.
